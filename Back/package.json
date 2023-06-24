@@ -1,0 +1,24 @@
+{
+  "name": "dashboard-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyLpyy/PmTool.git"
+  },
+  "author": "Mlp ツ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyLpyy/PmTool/issues"
+  },
+  "homepage": "https://github.com/MyLpyy/PmTool#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
